@@ -1,6 +1,5 @@
 # Hello-World
 ### Learning Git
-### First year programmer
 ### Currently learning: 
 - **Python** 
 - **PHP** 
